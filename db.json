@@ -8,125 +8,6 @@
       "date": "2023-10-01"
     },
     {
-      "title": "Utilities1",
-      "category": "Bills",
-      "amount": "10001",
-      "date": "2023-10-02",
-      "id": "2"
-    },
-    {
-      "id": "3",
-      "title": "Rent",
-      "category": "Housing",
-      "amount": 1200,
-      "date": "2023-10-03"
-    },
-    {
-      "id": "4",
-      "title": "Internet",
-      "category": "Bills",
-      "amount": 60,
-      "date": "2023-10-04"
-    },
-    {
-      "id": "5",
-      "title": "Dining Out",
-      "category": "Food",
-      "amount": 30,
-      "date": "2023-10-05"
-    },
-    {
-      "id": "6",
-      "title": "Gym Membership",
-      "category": "Health",
-      "amount": 40,
-      "date": "2023-10-06"
-    },
-    {
-      "id": "7",
-      "title": "Car Insurance",
-      "category": "Transportation",
-      "amount": 150,
-      "date": "2023-10-07"
-    },
-    {
-      "id": "8",
-      "title": "Fuel",
-      "category": "Transportation",
-      "amount": 40,
-      "date": "2023-10-08"
-    },
-    {
-      "id": "9",
-      "title": "Movie Tickets",
-      "category": "Entertainment",
-      "amount": 25,
-      "date": "2023-10-09"
-    },
-    {
-      "id": "10",
-      "title": "Books",
-      "category": "Education",
-      "amount": 15,
-      "date": "2023-10-10"
-    },
-    {
-      "id": "11",
-      "title": "Concert Tickets",
-      "category": "Entertainment",
-      "amount": 75,
-      "date": "2023-10-11"
-    },
-    {
-      "id": "12",
-      "title": "Clothing",
-      "category": "Shopping",
-      "amount": 100,
-      "date": "2023-10-12"
-    },
-    {
-      "id": "13",
-      "title": "Phone Bill",
-      "category": "Bills",
-      "amount": 50,
-      "date": "2023-10-13"
-    },
-    {
-      "id": "14",
-      "title": "Coffee",
-      "category": "Food",
-      "amount": 5,
-      "date": "2023-10-14"
-    },
-    {
-      "id": "15",
-      "title": "New Shoes",
-      "category": "Shopping",
-      "amount": 80,
-      "date": "2023-10-15"
-    },
-    {
-      "id": "1746986207612",
-      "title": "rishi",
-      "category": "Food",
-      "amount": "600",
-      "date": "2025-05-11T18:30:00.000Z"
-    },
-    {
-      "id": "1746986258287",
-      "title": "liki",
-      "category": "Utilities",
-      "amount": "900000",
-      "date": "2025-05-15T18:30:00.000Z"
-    },
-    {
-      "id": 1747590587275,
-      "title": "mango",
-      "category": "Food",
-      "amount": "1000",
-      "date": "2025-05-11T18:30:00.000Z"
-    },
-    {
       "id": 1747592186747,
       "title": "from net",
       "category": "Entertainment",
@@ -139,6 +20,59 @@
       "category": "Education",
       "amount": "100",
       "date": "2025-05-19T18:30:00.000Z"
+    },
+    {
+      "id": 1747713724440,
+      "title": "exps add",
+      "category": "Food",
+      "amount": "5678",
+      "date": "2025-05-21"
+    }
+  ],
+  "rishi": [
+    {
+      "id": "1",
+      "title": "rishi",
+      "category": "Food",
+      "amount": 50,
+      "date": "2023-10-01"
+    },
+    {
+      "id": "2",
+      "title": "water",
+      "category": "Food",
+      "amount": 50,
+      "date": "2023-10-01"
+    },
+    {
+      "id": 1747713686190,
+      "title": "rishi add",
+      "category": "Food",
+      "amount": "567",
+      "date": "2025-05-28"
+    }
+  ],
+  "ankitha": [
+    {
+      "id": "1",
+      "title": "ankitha",
+      "category": "Food",
+      "amount": 50,
+      "date": "2023-10-01"
+    },
+    {
+      "id": "2",
+      "title": "water",
+      "category": "Food",
+      "amount": 50,
+      "date": "2023-10-01"
+    },
+    {
+      "id": 1747713705473,
+      "title": "ankita add",
+      "category": "Food",
+      "amount": "5678",
+      "date": "2025-05-21"
     }
   ]
 }
