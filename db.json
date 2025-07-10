@@ -5,6 +5,7 @@
       "title": "Groceries",
       "category": "Food",
       "amount": 50,
+      "user":"expenses",
       "date": "2023-10-01"
     },
     {
